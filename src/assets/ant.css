@@ -1,0 +1,30 @@
+.ant-item {
+  display: flex;
+  align-items: center;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+.ant-type {
+  width: 10px;
+  height: 10px;
+  border-radius: 10px;
+  float: right;
+  margin-right: 15px;
+}
+.ant-item-name {
+  flex: 0.6;
+}
+.ant-item-status {
+  flex: 0.3;
+}
+.ant-item-likelihood {
+  flex: 0.1;
+}
+
+.in-progress {
+  color: greenyellow;
+}
+
+.completed {
+  color: red;
+}
