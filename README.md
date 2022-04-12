@@ -1,3 +1,2 @@
-# react-ant-likelihood
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-edmjvw)
+1. npm install
+2. npm run dev
